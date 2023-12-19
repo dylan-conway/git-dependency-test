@@ -5,6 +5,6 @@
         "prepare": "husky --version"
     },
     "devDependencies": {
-        "husky": "1"
+        "husky": "8.0.3"
     }
 }
