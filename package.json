@@ -2,7 +2,7 @@
     "name": "git-dependency-test",
     "version": "1.0.0",
     "scripts": {
-        "prepare": "which husky"
+        "install": "which husky"
     },
     "devDependencies": {
         "husky": "8.0.3"
