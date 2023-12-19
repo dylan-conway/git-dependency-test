@@ -1,0 +1,10 @@
+{
+    "name": "git-dependency-test",
+    "version": "1.0.0",
+    "scripts": {
+        "install": "husky --version"
+    },
+    "devDependencies": {
+        "husky": "1"
+    }
+}
